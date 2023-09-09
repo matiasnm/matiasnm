@@ -1,8 +1,8 @@
 ### Hi there 👋
-<img src="https://github.com/matiasnm/bachChorale/blob/main/readme.png"  width="45%" hight="45%"></img>
-<img src="https://github.com/matiasnm/voiceCipher/blob/main/bwv666-example.png" width="45%" hight="45%"></img>
-<img src="https://github.com/matiasnm/network/blob/main/README.png" width="45%" hight="45%"></img>
-<img src="https://github.com/matiasnm/orchestrationChart/blob/master/README.png" width="45%" hight="45%"></img>
+<img src="https://github.com/matiasnm/bachChorale/blob/main/readme.png" width="35%" hight="35%"></img>
+<img src="https://github.com/matiasnm/voiceCipher/blob/main/bwv666-example.png" width="35%" hight="35%"></img>
+<img src="https://github.com/matiasnm/network/blob/main/README.png" width="35%" hight="35%"></img>
+<img src="https://github.com/matiasnm/orchestrationChart/blob/master/README.png" width="35%" hight="35%"></img>
 <!--
 **matiasnm/matiasnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
