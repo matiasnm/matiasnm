@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="https://bachorale.onrender.com/"><img src="https://github.com/matiasnm/bachChorale/blob/main/readme.png" width="45%"></img></a>
-<a href="https://github.com/matiasnm/voiceCipher"><img src="https://github.com/matiasnm/voiceCipher/blob/main/bwv666-example.png" width="45%"></img></a>
-<a href="https://matiasnm.pythonanywhere.com/"><img src="https://github.com/matiasnm/network/blob/main/README.png" width="45%"></img></a>
-<a href="https://matiasnm.github.io/orchestrationChart/"><img src="https://github.com/matiasnm/orchestrationChart/blob/master/README.png" width="45%"></img></a>
+<a href="https://bachorale.onrender.com/" target="_blank"><img src="https://github.com/matiasnm/bachChorale/blob/main/readme.png" width="45%"></img></a>
+<a href="https://github.com/matiasnm/voiceCipher" target="_blank"><img src="https://github.com/matiasnm/voiceCipher/blob/main/bwv666-example.png" width="45%"></img></a>
+<a href="https://matiasnm.pythonanywhere.com/" target="_blank"><img src="https://github.com/matiasnm/network/blob/main/README.png" width="45%"></img></a>
+<a href="https://matiasnm.github.io/orchestrationChart/" target="_blank"><img src="https://github.com/matiasnm/orchestrationChart/blob/master/README.png" width="45%"></img></a>
 <!--
 **matiasnm/matiasnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
